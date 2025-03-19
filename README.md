@@ -1,2 +1,2 @@
-# Mastering Retrieval-augmented generation
- Mastering Retrieval-augmented generation, by BPB Publications
+# Mastering Retrieval-Augmented Generation
+ Mastering Retrieval-Augmented Generation, by BPB Publications
